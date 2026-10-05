@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "54396000000018001",
+      "name": "SpringBoot-Tuts",
+      "domain": {
+        "id": "50046586699",
+        "name": "springboot-tuts-60090606374.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60090606374",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
